@@ -18,7 +18,8 @@
   }
   
   body {
-    background-color: #323131;
+    /*background-color: #323131;*/
+    background: linear-gradient(to top right, powderblue, pink);
     color: white;
     position: relative;
     max-width: 540px;
